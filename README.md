@@ -15,8 +15,10 @@ Official implementation for paper [Learning to Generate Parameters of ConvNets f
     --xxx:.
 
 ## Basic Usage  
-There are various parameters in the input structure paras:
+    There are various parameters in the input structure paras:
+    
     --alp : Percentage of Fisher Information accumulated during Backpropagation.
+    --xx:xx.
 
 ## Quick Start
 ```
