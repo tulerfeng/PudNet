@@ -1,6 +1,6 @@
 # Code of Paper Learning to Generate Parameters of ConvNets for Unseen Image Data
 
-Official implementation for paper Learning to Generate Parameters of ConvNets for Unseen Image Data].
+Official implementation for paper [Learning to Generate Parameters of ConvNets for Unseen Image Data].
 
 ## Requirement
 - python3.6.5
