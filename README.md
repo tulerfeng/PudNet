@@ -44,4 +44,4 @@ Please cite our work if you feel the paper or the code are helpful.
 ```
 
 ## Contact 
-If there are any questions, please feel free to contact with the authors:  Shiye Wang (Shiye Wang@bit.edu.cn). Enjoy the code.
+If there are any questions, please feel free to contact with the authors:  Shiye Wang (ShiyeWang@bit.edu.cn). Enjoy the code.
