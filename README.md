@@ -16,7 +16,7 @@ Official implementation for paper [Learning to Generate Parameters of ConvNets f
 
 ## Basic Usage  
     There are various parameters in the input structure paras:
-    
+
     --alp : Percentage of Fisher Information accumulated during Backpropagation.
     --xx:xx.
 
@@ -25,6 +25,19 @@ Official implementation for paper [Learning to Generate Parameters of ConvNets f
 python PudNet.py 
 ```
 Parameters/options can be tuned to get better results.
+
+## Citation 
+Please cite our work if you feel the paper or the code are helpful.
+
+```
+@article{wang2023learning,
+  author={Shiye Wang and Kaituo Feng and Changsheng Li and Ye Yuan and Guoren Wang},
+  title={Learning to Generate Parameters of ConvNets for Unseen Image Data},
+  journal={CoRR},
+  volume={abs/2310.11862},
+  year={2023}
+}
+```
 
 ## Contact 
 If there are any questions, please feel free to contact with the authors:  Shiye Wang (zhoudw@lamda.nju.edu.cn) and Changsheng Li (yangy@lamda.nju.edu.cn). Enjoy the code.
