@@ -19,7 +19,7 @@ _Typical Convolutional Neural Networks (ConvNets) depend heavily on large amount
     --xxx:.
 
 ## Basic Usage  
-    There are various parameters in the input structure paras:
+There are various parameters in the input structure paras:
 
     --alp : Percentage of Fisher Information accumulated during Backpropagation.
     --xx:xx.
